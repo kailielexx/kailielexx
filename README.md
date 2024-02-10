@@ -1,7 +1,7 @@
 # Welcome to @kailielexx's GitHub Profile!
 
 ### 👋 Introduction
-Hello! I'm @kailielexx, a passionate technologist and programmer with a deep interest in the evolving fields of Artificial Intelligence (AI) and Machine Learning (ML). My journey in tech began with my fascination for creating efficient, user-friendly software solutions, and it has since expanded to the vast, dynamic world of AI/ML.
+Hello! I'm @kailielexx, a passionate technologist and programmer with a deep interest in the evolving fields of Artificial Intelligence (AI) and Machine Learning (ML). My journey in tech began with my fascination for creating efficient, user-friendly software solutions, and it has since expanded to the vast, dynamic world of AI/ML. Visit my portfolio at: [https://kailielexx.github.io/kailielexx/](https://kailielexx.github.io/kailielexx/).
 
 ### 👀 Interests
 My interests lie at the intersection of technology and problem-solving. Specifically, I am keen on contributing to projects that leverage AI to address real-world challenges, improve everyday life, and drive innovation across sectors like healthcare, education, and the environment. I find the potential of AI in making data-driven decisions and predictions particularly captivating.
