@@ -28,3 +28,17 @@ Looking ahead, I aim to become a leader in the AI/ML community, contributing to 
 
 ### 🤝 Preferred Collaboration Style
 I thrive in environments that value open communication, mutual respect, and continuous learning. I believe in the strength of diversity and the innovative solutions that can arise from collaborative teamwork. I prefer working with teams that maintain a balance between structured planning and creative freedom, allowing for both efficiency and innovation.
+
+### GitHub Profile Stats
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailielexx&theme=radical" alt="Hoang Son's GitHub Streak" />
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=kailielexx&theme=radical&column=3&row=1&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailielexx&layout=compact&theme=radical&langs_count=10" alt="Hoang Son's Most Used Languages" />
+</p>
+<p align="center">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=kailielexx&theme=radical&layout=compact" alt="Hoang Son's GitHub Stats" />
+</p>
