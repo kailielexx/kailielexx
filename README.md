@@ -39,6 +39,3 @@ I thrive in environments that value open communication, mutual respect, and cont
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hoangsonww&show_icons=true&theme=radical" />
 </p>
-<p align="center">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=kailielexx&theme=radical&layout=compact" />
-</p>
