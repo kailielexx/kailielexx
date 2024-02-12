@@ -31,14 +31,14 @@ I thrive in environments that value open communication, mutual respect, and cont
 
 ### GitHub Profile Stats
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailielexx&theme=radical" alt="Hoang Son's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailielexx&theme=radical" />
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kailielexx&theme=radical&column=3&row=1&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kailielexx&theme=radical&column=3&row=1&margin-w=15&margin-h=15" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailielexx&layout=compact&theme=radical&langs_count=10" alt="Hoang Son's Most Used Languages" />
+    <img src="https://github-contribution-stats.vercel.app/api/?username=kailielexx&theme=radical&layout=compact" />
 </p>
 <p align="center">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=kailielexx&theme=radical&layout=compact" alt="Hoang Son's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hoangsonww&show_icons=true&theme=radical" />
 </p>
