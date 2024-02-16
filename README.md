@@ -39,3 +39,6 @@ I thrive in environments that value open communication, mutual respect, and cont
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kailielexx&show_icons=true&theme=radical" />
 </p>
+
+### Visit My GitHub Buddy
+Visit my great GitHub buddy at [@hoangsonww](https://github.com/hoangsonww), give him some stars, and follow him if his projects are interesting to you!
