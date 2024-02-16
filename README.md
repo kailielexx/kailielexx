@@ -29,7 +29,7 @@ Looking ahead, I aim to become a leader in the AI/ML community, contributing to 
 ### 🤝 Preferred Collaboration Style
 I thrive in environments that value open communication, mutual respect, and continuous learning. I believe in the strength of diversity and the innovative solutions that can arise from collaborative teamwork. I prefer working with teams that maintain a balance between structured planning and creative freedom, allowing for both efficiency and innovation.
 
-### GitHub Profile Stats
+### 👨‍💻 GitHub Profile Stats
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailielexx&theme=radical" />
 </p>
