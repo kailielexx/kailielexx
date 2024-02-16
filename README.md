@@ -16,7 +16,7 @@ I am actively looking to collaborate on open-source projects that aim to make a 
 The best way to connect with me is through this GitHub account. Feel free to reach out if you're looking for collaborators, need contributions to your projects, or simply want to exchange ideas about technology and its future.
 
 ### 😄 Pronouns
-He/Him
+He/Him/His
 
 ### ⚡ Fun Facts
 - I have a special affinity for JavaFX. I love exploring its capabilities in creating rich client applications and believe it's a powerful tool for developing cross-platform desktop apps.
