@@ -18,7 +18,9 @@ The best way to connect with me is through this GitHub account. Feel free to rea
 ### 😄 Pronouns
 He/Him/His
 
+
 ### ⚡ Fun Facts
+Here are some fun facts about me:
 - I have a special affinity for JavaFX. I love exploring its capabilities in creating rich client applications and believe it's a powerful tool for developing cross-platform desktop apps.
 - In my free time, I enjoy participating in hackathons and coding competitions. They push me to think creatively and improve my coding skills under pressure.
 - I am an advocate for digital privacy and security. I enjoy learning about and implementing best practices to protect digital identities and information.
