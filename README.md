@@ -33,7 +33,7 @@ I thrive in environments that value open communication, mutual respect, and cont
 
 ### 👨‍💻 GitHub Profile Stats
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailielexx&theme=radical" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailielexx&theme=radical" alt="Kailie Le's GitHub Stats" />
 </p>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=kailielexx&theme=radical&column=3&row=1&margin-w=15&margin-h=15" alt="Kailie Le's GitHub Stats" />
