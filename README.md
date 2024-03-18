@@ -45,8 +45,8 @@ I thrive in environments that value open communication, mutual respect, and cont
 </p>
 <!-- These might be down due to API rate limitations from GitHub -->
 
+### 🌐 Visit My Portfolio Website
+Feel free to check out my portfolio website at [https://kailielexx.github.io/kailielexx/](https://kailielexx.github.io/kailielexx/).
+
 ### 🧑‍💻 Visit My GitHub Buddy
 Visit my great GitHub buddy at [@hoangsonww](https://github.com/hoangsonww), give him some stars, and follow him if his projects are interesting to you!
-
-### 🧑‍💻 Visit My Portfolio Website
-Feel free to check out my portfolio website at [https://kailielexx.github.io/kailielexx/](https://kailielexx.github.io/kailielexx/).
