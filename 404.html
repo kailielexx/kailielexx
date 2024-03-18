@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+    
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -77,74 +78,12 @@
             height: auto;
         }
 
-        body.dark-mode {
-            background-color: #333;
-            color: #f4f4f4;
-        }
-
-        .dark-mode .card {
-            background: #424242;
-            color: #f4f4f4;
-        }
-
-        .dark-mode a {
-            color: #f4f4f4;
-        }
-
-        .dark-mode h2 {
-            color: #f4f4f4;
-        }
-
-        .dark-mode .header {
-            background: #222;
-            color: #f4f4f4;
-        }
-
-        .dark-mode #dark-mode-toggle {
-            background: pink;
-            color: #333;
-        }
-
-        .dark-mode #dark-mode-toggle:hover {
-            background: hotpink;
-            color: #333;
-        }
-
-        #dark-mode-toggle {
-            position: fixed;
-            left: 0;
-            top: 45%;
-            background: #333;
-            color: #fff;
-            border: none;
-            border-radius: 50%;
-            padding: 10px;
-            cursor: pointer;
-            z-index: 1000;
-        }
-
-        #dark-mode-toggle:hover {
-            background: #101010;
-        }
-
-        .dark-mode a, .dark-mode a:hover {
-            color: pink;
-        }
-
         .header h1 {
             color: snow;
         }
 
-        .dark-mode .header h1 {
-            color: pink;
-        }
-
         section:hover {
             background-color: #f8f8f8;
-        }
-
-        .dark-mode section:hover {
-            background-color: #484848;
         }
 
         #back-to-home {
@@ -164,10 +103,6 @@
 </head>
 
 <body>
-    <button id="dark-mode-toggle">
-        <i class="fas fa-moon"></i>
-    </button>
-    
     <header class="header">
         <h1>Hello, World! 👋 I'm Kailie Le!</h1>
     </header>
@@ -176,7 +111,7 @@
         <section id="intro" class="card" style="margin-top: 15px">
             <h2>404 - Page Not Found</h2>
             <p>Oops! The page you are looking for does not exist. Please check the URL and try again.</p>
-            <button id="back-to-home" onclick="window.location.href='index.html'">Go back to the homepage</button>
+            <button id="back-to-home" onclick="window.location.href='index.html'">Go back to my portfolio!</button>
         </section>
     </div>
 </body>
