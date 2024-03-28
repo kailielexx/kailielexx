@@ -1,9 +1,26 @@
 {
-  "name": "Kailie Le's Portfolio",
-  "short_name": "Kailie's Portfolio",
-  "description": "Learn about Kailie Le, an open-source contributor",
+  "name": "David Nguyen's Portfolio",
+  "short_name": "David's Portfolio",
+  "description": "Learn about David Nguyen, a student at UNC Chapel Hill, his projects, skills, and work experience.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f4f4f4",
+  "icons": [
+    {
+      "src": "images/image-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/image-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "images/image-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
   "orientation": "portrait"
 }
