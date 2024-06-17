@@ -43,7 +43,6 @@ I thrive in environments that value open communication, mutual respect, and cont
 <p align="center">
     <img src="https://github-contribution-stats.vercel.app/api/?username=kailielexx&theme=radical&layout=compact" alt="Kailie Le's GitHub Stats" />
 </p>
-<!-- These might be down due to API rate limitations from GitHub -->
 
 ### 🌐 Visit My Portfolio Website
 Feel free to check out my portfolio website at [https://kailielexx.github.io/kailielexx/](https://kailielexx.github.io/kailielexx/).
