@@ -56,8 +56,8 @@ ul {
 .github-stats {
     display: flex;
     justify-content: space-around;
-    align-items: center; /* This line centers the items vertically */
-    flex-wrap: wrap; /* This ensures that the flex items wrap if there isn't enough space */
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .github-stats img {
