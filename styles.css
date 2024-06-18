@@ -62,9 +62,8 @@ ul {
 
 .github-stats img {
     max-width: 100%;
-    height: auto; /* Ensures the images scale properly without specifying a fixed height */
+    height: auto; 
 }
-
 
 body.dark-mode {
     background-color: #333;
