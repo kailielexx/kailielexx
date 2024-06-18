@@ -13,7 +13,7 @@ I am currently deepening my knowledge in AI/ML, focusing on mastering key concep
 I am actively looking to collaborate on open-source projects that aim to make a positive impact through technology. Whether it's contributing to the development of AI models, improving existing frameworks, or starting a new initiative from the ground up, I am eager to contribute my skills and learn from the community. I believe in the power of open source to foster innovation, inclusivity, and global collaboration.
 
 ### 📫 How to Reach Me
-The best way to connect with me is through this GitHub account. Feel free to reach out if you're looking for collaborators, need contributions to your projects, or simply want to exchange ideas about technology and its future.
+The best way to connect with me is through my GitHub account. Feel free to reach out if you're looking for collaborators, need contributions to your projects, or simply want to exchange ideas about technology and its future.
 
 ### 😄 Pronouns
 He/Him/His
